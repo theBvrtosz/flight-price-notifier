@@ -1,2 +1,5 @@
 .venv
 properties.json
+fight_data/__pychache__/
+bot_messaging/__pychache__/
+utils/__pychache__/
